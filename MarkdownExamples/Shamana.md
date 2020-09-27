@@ -1,3 +1,12 @@
+Android | IOS | Windows
+--- | :---: | ---:
+Medium apps for Android | Medium apps for IOS | Medium apps for Windows
+dfsfsfsfsdfsfsvaerbaffvsvrgfsdv | wefwofnwenvvnwavinavnwaiviwrvwivwrivhh | wofnwofnooeirvnwovonwovrnowvonwrovnai
+[Play Store](https://play.google.com/store?gl=AT)
+
+
+
+
 # WHAT IS AN ACAI BOWL?
 An **acai bowl** is a blended mixture of __acai berries__ and other fruits, served in a _bowl_ and topped with a *variety* of fresh fruit, nuts and seeds.
 
