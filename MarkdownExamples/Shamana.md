@@ -3,6 +3,7 @@ Android | IOS | Windows
 Medium apps for Android | Medium apps for IOS | Medium apps for Windows
 dfsfsfsfsdfsfsvaerbaffvsvrgfsdv | wefwofnwenvvnwavinavnwaiviwrvwivwrivhh | wofnwofnooeirvnwovonwovrnowvonwrovnai
 [Play Store](https://play.google.com/store?gl=AT)
+![](https://www.iconfinder.com/data/icons/logos-3/228/android-512.png "Some text") | ![iOS](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/2000px-IOS_logo.svg.png) | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/870px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png)
 
 
 
@@ -25,3 +26,8 @@ ACAI BOWL TIPS
    2. Second element of the sublist
 2. Second element of the list
 3. Third element of the list
+
+
+
+[![](https://images-na.ssl-images-amazon.com/images/I/61phRUj2Y4L._AC_SX425_.jpg)](https://www.youtube.com/watch?v=hGFOk5OoE6Y&ab_channel=ImmortalSwings)
+
